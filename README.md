@@ -1,0 +1,2 @@
+# Fake-News-Detection
+’Fake news has been around for decades and is not a new concept. However, the dawn of the social media age which can be approximated by the start of the 20th century has aggravated the generation and circulation of fake news many folds. Fake news can be simply explained as a piece of article which is usually written for economic, personal or political gains. Detection of such bogus news articles is possible by using various NLP techniques, Machine learning, and Artificial intelligence.
